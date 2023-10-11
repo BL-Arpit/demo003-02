@@ -12,3 +12,5 @@ then
 else 
 	echo "A is smaller than b"
 fi
+
+echo "Hi"
